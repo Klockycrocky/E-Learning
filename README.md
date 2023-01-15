@@ -1,5 +1,6 @@
 # E-Learning_Karpov_course
-First project E-learning. The task was provided by the educational platform "Karpov Course" DA
+First project E-learning. The task was provided by the educational platform "Karpov Course" DA. 
+RFM-сегментация, использование pandas, seaborn, функционала python
 
 # Продакт-менеджер Василий попросил вас проанализировать завершенные уроки и ответить на следующие вопросы:
 
